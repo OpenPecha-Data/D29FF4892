@@ -1,51 +1,44 @@
-id: d7d2aca533f14b73977416e2ac67235d
+id: c62c2cf729164759af7033ac4991c2bb
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  53f97f7e62a34adeb631df965424c807:
+  df4861137cc44a73b578fe06b611e3aa:
     imgnum: 405
     reference: ''
     span:
       start: 0
-      end: 758
-    note_ref: 24ea672da3424ab1ae0c85f734ea0b78
-  46f634d8ee134c158e51693ec9bf46a0:
+      end: 760
+    note_ref: 04a6364c5046447bbc62749e576b58e5
+  8ef8ebbdd1ad4604833fe3ed8e85817c:
     imgnum: 406
     reference: ''
     span:
-      start: 761
-      end: 1971
-    note_ref: 24ea672da3424ab1ae0c85f734ea0b78
-  69f3b01e823b4a3f810bbfcf2c856d06:
+      start: 763
+      end: 1975
+    note_ref: 04a6364c5046447bbc62749e576b58e5
+  4b20f2fe2b3148e98910a0e515d51d78:
     imgnum: 407
     reference: ''
     span:
-      start: 1974
-      end: 3153
-    note_ref: 24ea672da3424ab1ae0c85f734ea0b78
-  aabebeac48fa4ece80751c90f704035d:
+      start: 1978
+      end: 3159
+    note_ref: 04a6364c5046447bbc62749e576b58e5
+  9b917a6db9a24e9cbd7f05089b6029e5:
     imgnum: 408
     reference: ''
     span:
-      start: 3156
-      end: 3833
-    note_ref: 24ea672da3424ab1ae0c85f734ea0b78
-  24ea672da3424ab1ae0c85f734ea0b78:
+      start: 3162
+      end: 3841
+    note_ref: 04a6364c5046447bbc62749e576b58e5
+  04a6364c5046447bbc62749e576b58e5:
     imgnum: 409
     reference: ''
     span:
-      start: 3836
-      end: 4497
-  f3d048d7418443f1aeccb415ca03b050:
-    imgnum: 410
-    reference: ''
-    span:
-      start: 4500
-      end: 4500
+      start: 3844
+      end: 4432
 local_ids:
-  53f97f7e62a34adeb631df965424c807: 200000
-  46f634d8ee134c158e51693ec9bf46a0: 200001
-  69f3b01e823b4a3f810bbfcf2c856d06: 200002
-  aabebeac48fa4ece80751c90f704035d: 200003
-  24ea672da3424ab1ae0c85f734ea0b78: 200004
-  f3d048d7418443f1aeccb415ca03b050: 200005
+  df4861137cc44a73b578fe06b611e3aa: 200000
+  8ef8ebbdd1ad4604833fe3ed8e85817c: 200001
+  4b20f2fe2b3148e98910a0e515d51d78: 200002
+  9b917a6db9a24e9cbd7f05089b6029e5: 200003
+  04a6364c5046447bbc62749e576b58e5: 200004
